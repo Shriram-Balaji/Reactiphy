@@ -1,0 +1,8 @@
+.GraphicItems {
+  flex: 10;
+  margin: 0px 3px;
+}
+
+.GraphicItems img {
+  border-radius: 2px;
+}

@@ -1,0 +1,29 @@
+.Header-logo  {
+  height: 40px;
+  float: left;
+  animation: Header-logo-spin linear infinite 20s;
+}
+
+.Header h3 {
+  position: relative;
+  bottom: 8px;
+
+}
+
+.Header {
+  background-color: #000;
+  height: 50px;
+  margin-bottom: 10px;
+  padding: 10px;
+  color: #fff;
+  display: block;
+}
+
+@keyframes Header-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

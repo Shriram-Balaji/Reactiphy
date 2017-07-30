@@ -1,0 +1,5 @@
+.Graphics {
+  display: flex;
+  flex-flow:  wrap;
+  text-align: center;
+}
